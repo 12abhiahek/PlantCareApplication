@@ -8,4 +8,6 @@ import lombok.Setter;
 public class PlantDto {
     private String name;
     private String species;
+    private String careInstructions;
+    private int wateringFrequency;
 }
